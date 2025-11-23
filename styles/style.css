@@ -216,7 +216,7 @@
 
 dialog::backdrop {
   opacity: 0.75;
-  background: var(--main-color, #000);
+  background: var(--main-color);
 }
 
 .dialog {
